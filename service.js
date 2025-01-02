@@ -1,4 +1,4 @@
-const elements = document.querySelectorAll('.service1, .service2, .service3, .service4, .service5, .service6');
+const elements = document.querySelectorAll('#service1, #service2, #service3, #service4, #service5, #service6');
 
 elements.forEach(element => {
     element.addEventListener('mouseenter', () => {

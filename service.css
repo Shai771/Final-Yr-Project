@@ -1,156 +1,133 @@
-#header{
-    height: 315px;
-    width: 100%;
+body{
     background-color: #133550;
+}
+
+#header{
     font-family: "Cormorant Garamond", serif;
     font-weight: 300;
     font-style: normal;   
     color: #fff;
 }
 
-.top{
-    height: 100px;
-    width: 100%;  
-    padding: 20px 30px;
+#title{
     text-align: center;
 }
 
-.subtitle{
-    height: 100px;
-    width: 100%;
+#subtitle{
     font-size: 68px;
     padding: 18px;
     line-height: 70px;
 }
 
-#container1{
-    height: 400px;
-    width: 100%;
-    padding: 25px;
-    display: flex;
-    justify-content: space-around;
+#blocks{
     font-family: "Cormorant Garamond", serif;
     font-weight: 300;
-    font-style: normal;  
-    background-color: #133550;
+    font-style: normal;
 }
 
-.service1{
+#service1{
+    border-radius: 10px;
+    background-color: #fff;
     height: 350px;
     width: 350px;
-    background-color: #ffffff;
+}
+
+#service1 h4{
+    color: #000;
+    padding-top: 10px;
+    padding-left: 10px;
+}
+#service1 p{
+    color: #000;
+    padding-top: 10px;
+    padding-left: 10px;
+}
+
+#service2{
     border-radius: 10px;
-}
-
-.service1 h4{
-    color: #000;
-    padding-top: 10px;
-    padding-left: 10px;
-}
-.service1 p{
-    color: #000;
-    padding-top: 10px;
-    padding-left: 10px;
-}
-
-.service2{
+    background-color: #fff;
     height: 350px;
     width: 350px;
-    background-color: #ffffff;
-    border-radius: 10px;
 }
 
-.service2 h4{
+#service2 h4{
     color: #000;
     padding-top: 10px;
     padding-left: 10px;
 }
-.service2 p{
+#service2 p{
     color: #000;
     padding-top: 10px;
     padding-left: 10px;
 }
 
-.service3{
+#service3{
+    border-radius: 10px;   
+    background-color: #fff;
     height: 350px;
     width: 350px;
-    background-color: #ffffff;
+}
+
+#service3 h4{
+    color: #000;
+    padding-top: 10px;
+    padding-left: 10px;
+}
+#service3 p{
+    color: #000;
+    padding-top: 10px;
+    padding-left: 10px;
+}
+
+#service4{
     border-radius: 10px;
-}
-
-.service3 h4{
-    color: #000;
-    padding-top: 10px;
-    padding-left: 10px;
-}
-.service3 p{
-    color: #000;
-    padding-top: 10px;
-    padding-left: 10px;
-}
-
-#container2{
-    height: 400px;
-    width: 100%;
-    display: flex;
-    justify-content: space-around;
-    font-family: "Cormorant Garamond", serif;
-    font-weight: 300;
-    font-style: normal; 
-    background-color: #133550;
-}
-
-.service4{
+    background-color: #fff;
     height: 350px;
     width: 350px;
-    background-color: #ffffff;
-    margin-left: 20px;
+}
+
+#service4 h4{
+    color: #000;
+    padding-top: 10px;
+    padding-left: 10px;
+}
+#service4 p{
+    color: #000;
+    padding-top: 10px;
+    padding-left: 10px;
+}
+
+#service5{
     border-radius: 10px;
-}
-
-.service4 h4{
-    color: #000;
-    padding-top: 10px;
-    padding-left: 10px;
-}
-.service4 p{
-    color: #000;
-    padding-top: 10px;
-    padding-left: 10px;
-}
-
-.service5{
+    background-color: #fff;
     height: 350px;
     width: 350px;
-    background-color: #ffffff;
+}
+
+#service5 h4{
+    color: #000;
+    padding-top: 10px;
+    padding-left: 10px;
+}
+#service5 p{
+    color: #000;
+    padding-top: 10px;
+    padding-left: 10px;
+}
+
+#service6{
     border-radius: 10px;
-}
-
-.service5 h4{
-    color: #000;
-    padding-top: 10px;
-    padding-left: 10px;
-}
-.service5 p{
-    color: #000;
-    padding-top: 10px;
-    padding-left: 10px;
-}
-
-.service6{
+    background-color: #fff;
     height: 350px;
     width: 350px;
-    background-color: #ffffff;
-    margin-right: 20px;
-    border-radius: 10px;
 }
 
-.service6 h4{
+#service6 h4{
     color: #000;
     padding-top: 10px;
     padding-left: 10px;
 }
-.service6 p{
+#service6 p{
     color: #000;
     padding-top: 10px;
     padding-left: 10px;
