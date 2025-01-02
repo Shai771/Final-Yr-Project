@@ -1,17 +1,18 @@
 #header{
     height: 315px;
     width: 100%;
-    background-color: #ffffff;
+    background-color: #133550;
     font-family: "Cormorant Garamond", serif;
     font-weight: 300;
     font-style: normal;   
-    color: #000;
+    color: #fff;
 }
 
 .top{
     height: 100px;
     width: 100%;  
     padding: 20px 30px;
+    text-align: center;
 }
 
 .subtitle{
@@ -31,22 +32,23 @@
     font-family: "Cormorant Garamond", serif;
     font-weight: 300;
     font-style: normal;  
+    background-color: #133550;
 }
 
 .service1{
     height: 350px;
     width: 350px;
-    background-color: #133550;
+    background-color: #ffffff;
     border-radius: 10px;
 }
 
 .service1 h4{
-    color: #ffffff;
+    color: #000;
     padding-top: 10px;
     padding-left: 10px;
 }
 .service1 p{
-    color: #ffffff;
+    color: #000;
     padding-top: 10px;
     padding-left: 10px;
 }
@@ -54,17 +56,17 @@
 .service2{
     height: 350px;
     width: 350px;
-    background-color: #133550;
+    background-color: #ffffff;
     border-radius: 10px;
 }
 
 .service2 h4{
-    color: #ffffff;
+    color: #000;
     padding-top: 10px;
     padding-left: 10px;
 }
 .service2 p{
-    color: #ffffff;
+    color: #000;
     padding-top: 10px;
     padding-left: 10px;
 }
@@ -72,17 +74,17 @@
 .service3{
     height: 350px;
     width: 350px;
-    background-color: #133550;
+    background-color: #ffffff;
     border-radius: 10px;
 }
 
 .service3 h4{
-    color: #ffffff;
+    color: #000;
     padding-top: 10px;
     padding-left: 10px;
 }
 .service3 p{
-    color: #ffffff;
+    color: #000;
     padding-top: 10px;
     padding-left: 10px;
 }
@@ -95,24 +97,24 @@
     font-family: "Cormorant Garamond", serif;
     font-weight: 300;
     font-style: normal; 
-    color: #fff8f8;
+    background-color: #133550;
 }
 
 .service4{
     height: 350px;
     width: 350px;
-    background-color: #133550;
+    background-color: #ffffff;
     margin-left: 20px;
     border-radius: 10px;
 }
 
 .service4 h4{
-    color: #ffffff;
+    color: #000;
     padding-top: 10px;
     padding-left: 10px;
 }
 .service4 p{
-    color: #ffffff;
+    color: #000;
     padding-top: 10px;
     padding-left: 10px;
 }
@@ -120,17 +122,17 @@
 .service5{
     height: 350px;
     width: 350px;
-    background-color: #133550;
+    background-color: #ffffff;
     border-radius: 10px;
 }
 
 .service5 h4{
-    color: #ffffff;
+    color: #000;
     padding-top: 10px;
     padding-left: 10px;
 }
 .service5 p{
-    color: #ffffff;
+    color: #000;
     padding-top: 10px;
     padding-left: 10px;
 }
@@ -138,18 +140,18 @@
 .service6{
     height: 350px;
     width: 350px;
-    background-color: #133550;
+    background-color: #ffffff;
     margin-right: 20px;
     border-radius: 10px;
 }
 
 .service6 h4{
-    color: #ffffff;
+    color: #000;
     padding-top: 10px;
     padding-left: 10px;
 }
 .service6 p{
-    color: #ffffff;
+    color: #000;
     padding-top: 10px;
     padding-left: 10px;
 }
