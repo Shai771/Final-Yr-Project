@@ -132,3 +132,10 @@ body{
     padding-top: 10px;
     padding-left: 10px;
 }
+
+.carousel-item img{
+    width: 600px;
+    height: 350px;
+    object-fit: cover;
+    border-radius: 10px;
+}
