@@ -10,16 +10,16 @@ body{
 }
 
 #title{
-    text-align: center;
+    text-align: center; /*For our services text*/
 }
 
-#subtitle{
+#subtitle{ /*for the description*/
     font-size: 68px;
     padding: 18px;
     line-height: 70px;
 }
 
-#blocks{
+#blocks{ /*font style applied to the content within the blocks*/
     font-family: "Cormorant Garamond", serif;
     font-weight: 300;
     font-style: normal;
@@ -133,7 +133,7 @@ body{
     padding-left: 10px;
 }
 
-.carousel-item img{
+.carousel-item img{ /*applied to the images in the carousel*/
     width: 600px;
     height: 350px;
     object-fit: cover;
