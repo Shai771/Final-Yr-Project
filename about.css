@@ -15,7 +15,7 @@ body{
     padding-left: 10px;
 }
 
-.mt-7{
+.mt-7{ /*applied to the increase the space between the containers*/
     margin-top: 7rem;
 }
 
@@ -97,4 +97,5 @@ body{
     font-family: "Cormorant Garamond", serif;
     font-weight: 300;
     font-style: normal;
-    color: #fff;}
+    color: #fff;
+}
